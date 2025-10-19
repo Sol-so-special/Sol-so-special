@@ -1,5 +1,5 @@
 ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi, I'm Solomon </b></h1>
-<h4 align="center">An innovative <b>AI/ML Developer</b> & <b>Applied Data Scientist</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+<h4 align="center">An innovative <b>AI/ML Engineer</b> & <b>Applied Data Scientist</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   </p>
 <p align="center">
@@ -36,7 +36,7 @@ ___
 class Me:
     def __init__(self):
         self.degree = "B.Eng Elect/Elect Engineering (First Class Honors)"
-        self.role = "AI/ML Developer & Applied Data Scientist -- Real-Time NLP, RAG, Applied ML, AI Agents, Intelligent Decision Analytics"
+        self.role = "AI/ML Engineer & Applied Data Scientist -- Real-Time NLP, RAG, Applied ML, AI Agents, Intelligent Decision Analytics"
         self.secret_superpower = "Turning complex problems into elegant code"
         self.official_website = "https://Sol-so-special.github.io/" 
 ```
