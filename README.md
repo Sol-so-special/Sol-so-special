@@ -38,7 +38,7 @@ class Me:
         self.degree = "B.Eng Elect/Elect Engineering (First Class Honors)"
         self.role = "AI/ML Engineer & Applied Data Scientist -- Real-Time NLP, RAG, Applied ML, AI Agents, Intelligent Decision Analytics"
         self.secret_superpower = "Turning complex problems into elegant code"
-        self.official_website = "https://Sol-so-special.github.io/" 
+        self.official_website = "https://Sol-so-special.github.io/portfolio/" 
 ```
 
 
